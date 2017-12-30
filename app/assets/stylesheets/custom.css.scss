@@ -60,6 +60,15 @@ $navbar-default-bg: #1d3667;
   font-size: 1.25em;
 }
 
+
+.navbar-default .navbar-nav > li > a {
+  color: #f1f1f1;
+}
+.navbar-default .navbar-nav > li > a:hover {
+  color: #afafaf;
+}
+
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {

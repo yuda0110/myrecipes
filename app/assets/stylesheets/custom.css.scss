@@ -67,7 +67,12 @@ $navbar-default-bg: #1d3667;
 .navbar-default .navbar-nav > li > a:hover {
   color: #afafaf;
 }
-
+.badge {
+  background-color: #dcdcdc;
+}
+.input_checkbox input {
+  width: auto !important;
+}
 
 /* Sticky footer styles
 -------------------------------------------------- */
